@@ -2,8 +2,10 @@ target
 .snfoundry_cache/
 stellar-contracts/target/
 stellar-contracts/Cargo.lock
+temp_auto_push.bat
 test_snapshots/test/test
 ISSUES.md
 node_modules
 .env
-somzilla.md
+somzilla.md.gitignore
+branch_structure.json
